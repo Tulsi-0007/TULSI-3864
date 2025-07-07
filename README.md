@@ -1,5 +1,6 @@
 # TULSI-3864
 
+<img src="https://your-image-url.com/gradient-line.png" width="100%" />
 <h1 align="center">Hi 👋, I'm Xyz</h1>
 <h3 align="center">A curious Computer Science student exploring the world of AI/ML</h3>
 
