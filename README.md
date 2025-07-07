@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Tulsi-0007)
 
-- 📫 How to reach me **email**
+- 📫 How to reach me **tulsikumari11017@gmail.com**
 
 ## 🌐 Socials:
 
