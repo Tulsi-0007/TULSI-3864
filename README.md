@@ -1,5 +1,18 @@
 # TULSI-3864
 
+<svg width="100%" height="10">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0000" />
+      <stop offset="20%" stop-color="#ff9900" />
+      <stop offset="40%" stop-color="#33cc33" />
+      <stop offset="60%" stop-color="#3399ff" />
+      <stop offset="80%" stop-color="#9900cc" />
+      <stop offset="100%" stop-color="#ff3399" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="10" fill="url(#rainbow)" />
+</svg>
 <img src="https://your-image-url.com/gradient-line.png" width="100%" />
 <h1 align="center">Hi 👋, I'm Xyz</h1>
 <h3 align="center">A curious Computer Science student exploring the world of AI/ML</h3>
