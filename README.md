@@ -10,18 +10,18 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 - 🔭 I'm a <b> beginner in programming. </b>
-- 🌱 Currently Learning <b> Front-end web development, flutter app development and DSA </b>
+- 🌱 Currently Learning <b> Artificial Intelligence </b>
 
-- 🌱 Pursuing **Btech in ECE-AI at IGDTUW**
+- 🌱 Pursuing **FTD in CSE at DSEU**
 - 👯 I’m looking to collaborate on open source projects
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/aafiaiqbal06)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Tulsi-0007)
 
-- 📫 How to reach me **aafiaiqbal17@gmail.com**
+- 📫 How to reach me **email**
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aafia-iqbal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aafia2006) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/aafia__iqbal__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulsi-kumari-5857b8299/) 
 
 
 ## 💻 Tech Stack:
