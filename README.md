@@ -43,14 +43,14 @@
 <br/>
 
 # 📊 GitHub Stats:
-![](https://komarev.com/ghpvc/?username=tulsi_3864&abbreviated=true) <br/>
-<a href="https://github.com/aafiaiqbal06">
-![](https://github-readme-stats.vercel.app/api?username=aafiaiqbal06&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aafiaiqbal06&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=aafiaiqbal06&theme=blue-green&hide_border=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aafiaiqbal06&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aafiaiqbal06&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aafiaiqbal06&theme=blue_green&utcOffset=8)
+![](https://komarev.com/ghpvc/?username=tulsi-0007&abbreviated=true) <br/>
+<a href="https://github.com/tulsi-0007">
+![](https://github-readme-stats.vercel.app/api?username=tulsi-0007&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tulsi-0007&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tulsi-0007&theme=blue-green&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tulsi-0007&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tulsi-0007&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tulsi-0007&theme=blue_green&utcOffset=8)
 <br/>
 
 
