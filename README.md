@@ -10,9 +10,10 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 - I'm a <b> beginner in programming. </b>
+- I'm am a **2nd Year B.Tech AI & ML Student at IGDTUW.**
 - Currently Learning <b> Artificial Intelligence </b>
 
-- Pursuing **FTD in CSE at DSEU**
+- I have **Completed my diploma in Computer Science Engineering From DSEU**
 - I’m looking to collaborate on open source projects
 
 - All of my projects are available at [GitHub](https://github.com/Tulsi-0007)
