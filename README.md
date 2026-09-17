@@ -47,4 +47,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tulsi-0007&theme=blue_green&utcOffset=8)
 <br/>
 
-> “Learning never exhausts the mind.” – Leonardo da Vinci
+> 
