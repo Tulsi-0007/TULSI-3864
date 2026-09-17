@@ -13,7 +13,7 @@
 - I'm am a **2nd Year B.Tech AI & ML Student at IGDTUW.**
 - Currently Learning <b> Artificial Intelligence </b>
 
-- I have **Completed my diploma in Computer Science Engineering From DSEU**
+- I have **Completed my diploma in Computer Science Engineering From DSEU** with a accumulative **CGPA of 9.1**
 - I’m looking to collaborate on open source projects
 
 - All of my projects are available at [GitHub](https://github.com/Tulsi-0007)
