@@ -2,24 +2,24 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-<h1 align="center">Hi 👋, I'm Tulsi Kumari </h1> 
+<h1 align="center">Hi, I'm Tulsi Kumari </h1> 
 <h3 align="start"></h3>
 
-# 💫 About Me:
+# About Me:
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-- 🔭 I'm a <b> beginner in programming. </b>
-- 🌱 Currently Learning <b> Artificial Intelligence </b>
+- I'm a <b> beginner in programming. </b>
+- Currently Learning <b> Artificial Intelligence </b>
 
-- 🌱 Pursuing **FTD in CSE at DSEU**
-- 👯 I’m looking to collaborate on open source projects
+- Pursuing **FTD in CSE at DSEU**
+- I’m looking to collaborate on open source projects
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Tulsi-0007)
+- All of my projects are available at [GitHub](https://github.com/Tulsi-0007)
 
-- 📫 How to reach me **tulsikumari11017@gmail.com**
+- How to reach me **tulsikumari11017@gmail.com**
 
-## 🌐 Socials:
+## Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulsikumari/dseu) 
 
