@@ -21,8 +21,7 @@
 - How to reach me **tulsikumari11017@gmail.com**
 
 ## Socials:
-
-[![LinkedIn](https://www.linkedin.com/in/tulsi-kumari-5857b8299/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulsi-kumari-5857b8299/)
 
 
 ## 💻 Tech Stack:
